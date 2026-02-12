@@ -1,16 +1,17 @@
-## Hi there 👋
+# Cybersecurity Learning Portfolio
 
-<!--
-**jtw96112/jtw96112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Hands-on cybersecurity projects, labs, and notes focused on blue team, SOC analysis, and defensive security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am an aspiring cybersecurity professional focused on **defensive security, SOC operations, and threat detection**.  
+This repository documents my **hands-on learning**, practical labs, and tools I’ve built while developing real-world security skills.
+
+**Current Focus Areas:**
+- Security Operations Center (SOC)
+- Threat detection & incident response
+- Log analysis & SIEM
+- Network and endpoint security
+
